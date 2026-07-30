@@ -1,1 +1,1 @@
-# -Gesti-n-de-la-Configuraci-n-del-Software
+Cambio realizado desde la rama mejoras.
